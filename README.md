@@ -95,5 +95,5 @@ These projects are intentionally simple and beginner-friendly, perfect for:
 - Hackathon starter templates
 - Teaching full-stack vs static deployments
 - Demonstrating modern web development
-
+//
 ---
